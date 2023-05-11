@@ -1,3 +1,3 @@
 # A-Simple-ECS-Implementation
 
-![img](https://austinmorlan.com/posts/entity_component_system/media/demo.gif)
+![img]([https://github.com/Ariyachan/A-Simple-ECS-Implementation/edit/main/demo.gif]))
