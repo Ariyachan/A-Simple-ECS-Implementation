@@ -1,3 +1,5 @@
 # A-Simple-ECS-Implementation
 
-https://austinmorlan.com/posts/entity_component_system/media/demo.gif
+[Here is a blog post about it.](https://austinmorlan.com/posts/entity_component_system/)
+
+![Demo](https://austinmorlan.com/posts/entity_component_system/media/demo.gif)
